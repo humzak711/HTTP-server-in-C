@@ -1,5 +1,5 @@
-#ifndef STARTSERVER_H
-#define STARTSERVER_H
+#ifndef _STARTSERVER_H
+#define _STARTSERVER_H
 
 #include <stdio.h>
 #include <stdlib.h>
