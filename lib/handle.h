@@ -1,5 +1,5 @@
-#ifndef HANDLE_H
-#define HANDLE_H
+#ifndef _HANDLE_H
+#define _HANDLE_H
 
 #include <stdio.h>
 #include <stdlib.h>
