@@ -18,5 +18,5 @@ int main() {
     // Start our HTTP web server with our static html template
     startserver(PORT, config);
     
-    return 0;
+    return 0; // return a 0 :o
 }
