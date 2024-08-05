@@ -6,7 +6,7 @@
 #include "lib/config.h"
 #include "lib/startserver.h"
 
-#define PORT 8888
+#define PORT 8888 // port 8888 is the port did u know that
 
 int main() {
     struct MHD_Daemon *daemon; // Create a daemon 
